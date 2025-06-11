@@ -2,10 +2,7 @@
     "name": "Accessibility Audit Highlighter",
     "version": "1.0.1",
     "manifest_version": 3,
-    "permissions": [
-        "scripting",
-        "activeTab"
-    ],
+    "permissions": [ "scripting", "activeTab" ],
     "action": {
         "default_popup": "popup.html"
     },
